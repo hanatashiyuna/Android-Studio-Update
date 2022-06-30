@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Studio Nâng Cao</string>
+
+    <string name="facebook_app_id">320698490128671</string>
+    <string name="fb_login_protocol_scheme">fb320698490128671</string>
+    <string name="facebook_client_token">28f5d40dd57b901f84ead318d6515f24</string>
+</resources>
